@@ -1,0 +1,2 @@
+module CaduHelper
+end
